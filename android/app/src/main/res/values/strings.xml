@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WWItest</string>
+    <integer name="com_vk_sdk_AppId">5919243</integer>
+</resources>
